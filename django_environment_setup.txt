@@ -3,6 +3,6 @@ source env/Scripts/activate
 pip  install django
 django-admin startproject config .
 python manage.py runserver
-python manage.py startapp Car_kit
+python manage.py startapp App_name
 
-Alt + shit >
+Alt + shit >dja
