@@ -1,11 +1,7 @@
-![admistration](https://github.com/ruhulashazid/django_project/assets/66206215/46f4b23f-2336-46c5-b57b-bacf599be44e)
-Welcome to our Job Board Administration System! Here, you have access to manage both user accounts and job postings seamlessly. Our platform is designed to streamline the process of connecting job seekers with opportunities, ensuring a smooth and efficient experience for all users.
-
 ## Title: Job Board Administration System
-
 Welcome to our Job Board Administration System! Here, you have access to manage both user accounts and job postings seamlessly. Our platform is designed to streamline the process of connecting job seekers with opportunities, ensuring a smooth and efficient experience for all users.
-
-#### User Management
+![admistration](https://github.com/ruhulashazid/django_project/assets/66206215/46f4b23f-2336-46c5-b57b-bacf599be44e)
+### User Management
 In this section, you can oversee all user accounts registered on our platform. Whether it's employers looking to post job openings or individuals seeking employment, you have the tools to manage their accounts effectively. From account creation to account deletion, you can handle user management tasks effortlessly, ensuring a secure and reliable environment for all.
 ### Job Postings Management
 In this section, you can oversee all job postings listed on our platform. Whether it's employers posting new job opportunities or managing existing listings, you have the tools to ensure that job seekers have access to the latest and most relevant job openings. From posting creation to editing and removal, you can manage job postings efficiently, facilitating a dynamic job marketplace.
