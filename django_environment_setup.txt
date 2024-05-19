@@ -6,3 +6,5 @@ python manage.py runserver
 python manage.py startapp App_name
 
 Alt + shit >dja
+
+python manage.py createsuperuser
